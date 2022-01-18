@@ -1,0 +1,13 @@
+/home/reinaldo/StudioProjects/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes
+/home/reinaldo/StudioProjects/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes.deps.json
+/home/reinaldo/StudioProjects/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes.runtimeconfig.json
+/home/reinaldo/StudioProjects/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes.runtimeconfig.dev.json
+/home/reinaldo/StudioProjects/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes.dll
+/home/reinaldo/StudioProjects/DIO.Animes/bin/Debug/netcoreapp3.1/DIO.Animes.pdb
+/home/reinaldo/StudioProjects/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.csprojAssemblyReference.cache
+/home/reinaldo/StudioProjects/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.AssemblyInfoInputs.cache
+/home/reinaldo/StudioProjects/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.AssemblyInfo.cs
+/home/reinaldo/StudioProjects/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.csproj.CoreCompileInputs.cache
+/home/reinaldo/StudioProjects/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.dll
+/home/reinaldo/StudioProjects/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.pdb
+/home/reinaldo/StudioProjects/DIO.Animes/obj/Debug/netcoreapp3.1/DIO.Animes.genruntimeconfig.cache
